@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67e2be7b.chunk.css",
+    "main.js": "/static/js/main.f5420a5f.chunk.js",
+    "main.js.map": "/static/js/main.f5420a5f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d064965.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d064965.js.map",
+    "static/js/2.96df244b.chunk.js": "/static/js/2.96df244b.chunk.js",
+    "static/js/2.96df244b.chunk.js.map": "/static/js/2.96df244b.chunk.js.map",
+    "static/js/3.7144c4f7.chunk.js": "/static/js/3.7144c4f7.chunk.js",
+    "static/js/3.7144c4f7.chunk.js.map": "/static/js/3.7144c4f7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.67e2be7b.chunk.css.map": "/static/css/main.67e2be7b.chunk.css.map",
+    "static/js/2.96df244b.chunk.js.LICENSE.txt": "/static/js/2.96df244b.chunk.js.LICENSE.txt",
+    "static/media/camp.0f236f36.png": "/static/media/camp.0f236f36.png",
+    "static/media/deuses.9cb9bdce.png": "/static/media/deuses.9cb9bdce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d064965.js",
+    "static/js/2.96df244b.chunk.js",
+    "static/css/main.67e2be7b.chunk.css",
+    "static/js/main.f5420a5f.chunk.js"
+  ]
+}
